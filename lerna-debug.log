@@ -1,0 +1,15 @@
+15 error Error: Command failed: git remote update
+15 error Connection reset by 140.82.113.4 port 22
+15 error fatal: 无法读取远程仓库。
+15 error
+15 error 请确认您有正确的访问权限并且仓库存在。
+15 error error: 不能获取 origin
+15 error
+15 error 正在获取 origin
+15 error
+15 error     at makeError (/Users/guoshuxin/.nvm/versions/node/v13.0.1/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
+15 error     at Function.module.exports.sync (/Users/guoshuxin/.nvm/versions/node/v13.0.1/lib/node_modules/lerna/node_modules/execa/index.js:338:15)
+15 error     at Object.execSync (/Users/guoshuxin/.nvm/versions/node/v13.0.1/lib/node_modules/lerna/node_modules/@lerna/child-process/index.js:26:16)
+15 error     at updateRemote (/Users/guoshuxin/.nvm/versions/node/v13.0.1/lib/node_modules/lerna/node_modules/@lerna/version/lib/is-behind-upstream.js:26:16)
+15 error     at isBehindUpstream (/Users/guoshuxin/.nvm/versions/node/v13.0.1/lib/node_modules/lerna/node_modules/@lerna/version/lib/is-behind-upstream.js:11:3)
+15 error     at VersionCommand.initialize (/Users/guoshuxin/.nvm/versions/node/v13.0.1/lib/node_modules/lerna/node_modules/@lerna/version/index.js:154:9)

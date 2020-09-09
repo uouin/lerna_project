@@ -1,17 +1,12 @@
 {
-  "name": "module-1",
+  "name": "uouin-module-2",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "dependencies": {
-    "axios": "^0.20.0",
-    "module-2": "^0.0.2"
-  },
   "author": "",
   "license": "ISC",
-  "gitHead": "d630575211786368ef2c18d3f52c5c8483de17da"
+  "gitHead": "7720b067f115da56e4857804d6c013021dab0f78"
 }
